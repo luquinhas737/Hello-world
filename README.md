@@ -1,2 +1,2 @@
 # Hello world
- Primeiro repositorio do luquinha
+ Primeiro repositório do Luquinha :)!
